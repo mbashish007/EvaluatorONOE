@@ -1,0 +1,39 @@
+Yay!!! it worked good job now I want a few changes
+
+
+{
+
+    "studentId": "Student_001",
+
+    "answers":[
+
+        {
+
+            "qId": "Q1",
+
+            "response": "A",
+
+
+        },
+
+        {
+
+            "qId": "Q2",
+
+            "response": "B"
+
+        }   ],
+
+    "subjectiveAnswers": [
+
+        {
+
+            "qId": "Q3",
+
+            "response": "Essay..."
+
+        }
+
+    ]
+
+}
