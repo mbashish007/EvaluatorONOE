@@ -24,8 +24,8 @@ public class IngestionService {
         script.setStatus("PROCESSING");
         repo.save(script);
 
-        // 2. THE TRUE SPLITTER PATTERN
-        // Iterate through every single answer and fire a discrete event
+        // 2. SPLITTER PATTERN
+
         script.getAnswers().forEach(answer -> {
 
             // Create the granular task object
